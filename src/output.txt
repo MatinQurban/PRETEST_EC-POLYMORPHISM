@@ -1,0 +1,36 @@
+Shape               Sides               Radius              Area                Circumfrence        Color               
+Circle              0                   5                   78.5398             31.4159             red                 
+
+Shape               Sides               Length              Width               Area                Perimeter           Color               
+Rectangle           4                   5                   10                  50                  30                  blue                
+
+Shape               Sides               Length              Area                Perimeter           Color               
+Square              4                   5.5                 30.25               22                  green               
+
+Shape               Sides               Base                Height              Area                Perimeter           Color               
+Triangle            3                   5                   10                  25                  26.1803             yellow              
+
+Circle == Rectangle: 0
+Circle != Rectangle: 1
+Circle == Circle: 1
+Circle != Circle: 0
+Modifying circle radius to 10...
+
+Modifying rectangle length to 10...
+
+Modifying square length to 10...
+
+Modifying triangle base to 10...
+
+
+Shape               Sides               Radius              Area                Circumfrence        Color               
+Circle              0                   10                  314.159             62.8319             red                 
+
+Shape               Sides               Length              Width               Area                Perimeter           Color               
+Rectangle           4                   10                  10                  100                 40                  blue                
+
+Shape               Sides               Length              Area                Perimeter           Color               
+Square              4                   10                  100                 40                  green               
+
+Shape               Sides               Base                Height              Area                Perimeter           Color               
+Triangle            3                   10                  10                  50                  34.1421             yellow              
